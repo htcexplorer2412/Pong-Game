@@ -1,4 +1,2 @@
 # Pong-Game
-Simple Pong Game in Unity
-
-Probably First finished game of mine
+Basic Unity game to gain an understanding of fundamental aspects of Unity i.e Scene, script, physics etc
